@@ -65,7 +65,8 @@ class Game {
 
   play() {
     this.handleElements();
-    this.handleResetButton();
+    //chame a função handleResetButton() → this.handleResetButton();
+    
 
     Player.getPlayersInfo();
 
@@ -104,7 +105,10 @@ class Game {
     }
   }
 
-  handleResetButton() {}
+  //programe a função handleResetButton() para reiniciar todos os campos do banco de dados e recarregar o jogo
+  handleResetButton() {
+  
+  }
 
   showLeaderboard() {
     var leader1, leader2;
