@@ -158,5 +158,12 @@ class Game {
       player.positionY += 10;
       player.update();
     }
+    
+    //condição para movimentar para a esquerda
+    
+    
+    //condiçã para movimentar para a direita
+    
+    
   }
 }
