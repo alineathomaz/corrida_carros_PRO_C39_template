@@ -162,7 +162,7 @@ class Game {
     //condição para movimentar para a esquerda
     
     
-    //condiçã para movimentar para a direita
+    //condição para movimentar para a direita
     
     
   }
